@@ -1,0 +1,8 @@
+Dataset 2, File: f1 - Log Likelihood Difference = 1956303.1762700498
+Dataset 2, File: f2 - Log Likelihood Difference = 1274305.4873930297
+Dataset 2, File: f3 - Log Likelihood Difference = 539379.8832736852
+Dataset 2, File: f4 - Log Likelihood Difference = 142698.1722224785
+Dataset 2, File: p1 - Log Likelihood Difference = 1822253.8757518898 +/- 0.8818249795549487
+Dataset 2, File: p2 - Log Likelihood Difference = 1306198.5724572968 +/- 0.17803165938306975
+Dataset 2, File: p3 - Log Likelihood Difference = 566726.5124308475 +/- 0.7882209002718185
+Dataset 2, File: p4 - Log Likelihood Difference = 159622.67011039326 +/- 0.06123455247700874
