@@ -1,0 +1,13 @@
+[package]
+name = "hw_5_rust"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.79"
+humantime = "2.1.0"
+indicatif = "0.17.7"
+ndarray = "0.15.6"
+ndarray-rand = "0.14.0"
