@@ -470,11 +470,10 @@ fn run_em(
 }
 
 fn main() {
-    let mut args: Vec<String> = std::env::args().collect();
+    let args: Vec<String> = std::env::args().collect();
     if args.len() != 4 {
-        args.push("2".to_owned());
-        args.push("f".to_owned());
-        args.push("1".to_owned());
+        eprintln!("Usage: {} <dataset> <mode> <train_file>", args[0]);
+        std::process::exit(1);
     }
     let dataset = args[1].parse::<usize>().expect("dataset is not a number");
     let mode = &args[2];
